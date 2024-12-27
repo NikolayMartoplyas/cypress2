@@ -1,0 +1,16 @@
+{
+  "name": "cinema",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "testChromeHeaded": "cypress run --browser chrome --headed",
+    "testChromeHeadless": "cypress run --browser chrome --headless"
+  },
+  "keywords": [],
+  "author": "Nikolay Martoplyas",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.17.0"
+  }
+}
