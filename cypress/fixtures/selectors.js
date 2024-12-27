@@ -15,11 +15,7 @@ const selectors = {
     button: ".acceptin-button",
     ticketInfo: ".ticket__info",
     ticketInfo1: ".ticket__info-wrapper"
-
-
-
   }
-
 };
 
 export default selectors;
